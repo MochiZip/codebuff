@@ -20,7 +20,7 @@ When you ask Codebuff to "add authentication to my API," it might invoke:
 1. A **File Picker Agent** to scan your codebase to understand the architecture and find relevant files
 2. A **Planner Agent** to plan which files need changes and in what order
 3. An **Editor Agent** to make precise edits
-4. A **Reviewer Agent** to validate changes
+4. A **Reviewer Agent** to validate change
 
 <div align="center">
   <img src="./assets/multi-agents.png" alt="Codebuff Multi-Agents" width="250">
